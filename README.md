@@ -1,6 +1,11 @@
 # Algorithm
- Maze & Dijkstra’s Algorithm
+The Project realted to Algorithms
+
+Maze-Project & Dijkstra’s Algorithm:   
+find shorst path in maze        <br>
+                USING: Dijkstra’s Algorithm  &&     Depth-First Search (DFS)
 
 
-There is a Google Slides, detaily describle "How to find the Shortest Path in Maze"   :    
-      https://docs.google.com/presentation/d/1v0jm_RMY3eG9DYA7BGZY3cFwth_kkxZMhBZPYWMgcrk/edit?usp=sharing
+Maze-Project & Bellman Ford's Algorithm:   
+find shorst path in maze        <br>
+USING: Dijkstra’s Algorithm  &&     Depth-First Search (DFS)
