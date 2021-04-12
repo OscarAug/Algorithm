@@ -11,6 +11,6 @@ find shorst path in maze        <br>
 USING: Dijkstra’s Algorithm  &&     Depth-First Search (DFS)
 
 <br>
-Maze-Project & Prim’s Minimum Spanning Tree algorithm & Kruskal’s Minimum Spanning Tree algorithm:   
-find shorst path in maze        <br>
+Maze-Project & Prim’s Minimum Spanning Tree algorithm & Kruskal’s Minimum Spanning Tree algorithm:   <br>
+find shorst path in maze <br>
 USING: Prim’s Minimum Spanning Tree algorithm && Kruskal’s Minimum Spanning Tree algorithm  &&     Depth-First Search (DFS)
